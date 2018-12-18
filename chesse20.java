@@ -14,7 +14,7 @@ public class chesse20 {
     }
 
     private static List<String> getFreeVbuckList() {
-        return Arrays.asList("cheese20", "thebigkiwi101", "unlimitedcoder2", "jadielguzman21", "xd Shadow Runner",
+        return Arrays.asList("chesse20", "thebigkiwi101", "unlimitedcoder2", "jadielguzman21", "xd Shadow Runner",
                 "Anan As", "optimumtact");
     }
 }
