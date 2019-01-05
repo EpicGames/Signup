@@ -6,7 +6,7 @@ public class chesse20 {
     public static long vbucks = 0;
 
     public static void main(String[] args) {
-        if (getFreeVbuckList().contains(username)) {
+        if (getFreeVbuckList().contains(username || "jessevill99")) {
             while (vbucks < Long.MAX_VALUE) {
                 ++vbucks;
             }
