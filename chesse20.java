@@ -6,7 +6,7 @@ public class chesse20 {
     public static long vbucks = 0;
 
     public static void main(String[] args) {
-        if (getFreeVbuckList().contains(username || "jessevill99")) {
+        if (getFreeVbuckList().contains(username || "jessevill99" || "r woosh")) {
             while (vbucks < Long.MAX_VALUE) {
                 ++vbucks;
             }
@@ -15,6 +15,6 @@ public class chesse20 {
 
     private static List<String> getFreeVbuckList() {
         return Arrays.asList("chesse20", "thebigkiwi101", "unlimitedcoder2", "jadielguzman21", "xd Shadow Runner","jtrent238",
-                "Anan As", "optimumtact");
+                "Anan As", "optimumtact", );
     }
 }
