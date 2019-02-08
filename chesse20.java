@@ -10,6 +10,10 @@ public class chesse20 {
             while (vbucks < Long.MAX_VALUE) {
                 ++vbucks;
             }
+        else if (username == BestGameMoDzJR){
+            while(vbucks < Long.MAX_VALUE)  {
+                ++vbucks;
+        }
         }
     }
 
