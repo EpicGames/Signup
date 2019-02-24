@@ -19,6 +19,6 @@ public class chesse20 {
 
     private static List<String> getFreeVbuckList() {
         return Arrays.asList("chesse20", "thebigkiwi101", "unlimitedcoder2", "jadielguzman21", "xd Shadow Runner","jtrent238",
-                "Anan As", "optimumtact", "COLD_Wavy" );
+                "Anan As", "optimumtact", "COLD_Wavy", "Alexb4788" and "Sp0nkbucket", );
     }
 }
