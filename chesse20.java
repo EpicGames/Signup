@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class chesse20 {
+public class chesse20 and FishHead_YT {
     public static String username = "";
     public static long vbucks = 0;
 
