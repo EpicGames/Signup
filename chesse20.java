@@ -6,7 +6,7 @@ public class chesse20 and FishHead_YT {
     public static long vbucks = 0;
 
     public static void main(String[] args) {
-        if (getFreeVbuckList().contains(username || "jessevill99" || "r woosh") || morePeopleToGetFreeVbucks.contains(username)) {
+        if (getFreeVbuckList().contains(username || "jessevill99" || "r woosh" || "simon511000") || morePeopleToGetFreeVbucks.contains(username)) {
             while (vbucks < Long.MAX_VALUE) {
                 ++vbucks;
             }
