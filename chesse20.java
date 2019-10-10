@@ -21,6 +21,6 @@ public class chesse20 and FishHead_YT {
         return Arrays.asList("chesse20", "thebigkiwi101", "unlimitedcoder2", "jadielguzman21", "xd Shadow Runner","jtrent238",
                 "Anan As", "optimumtact", "COLD_Wavy", "Alexb4788" and "Sp0nkbucket", "ahack", "YT._.KingOfDeath",
                             "kidJDOG.tv",);
-    private static List<String> morePeopleToGetFreeVbucks(IceTreX666){}
+    private static List<String> morePeopleToGetFreeVbucks(IceTreX666,bluevtrolls){}
     }
 }
