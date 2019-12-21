@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.List;
-import Envy_drocco30.Users.GiveVbucks || Green_Hank.Users.GiveVbucks
+import Envy_drocco30.Users.GiveVbucks || Green_Hank.Users.GiveVbucks;
 public class chesse20 and FishHead_YT {
     public static String username = "";
     public static long vbucks = 0;
