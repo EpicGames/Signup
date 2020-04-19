@@ -1,12 +1,13 @@
 import java.util.Arrays;
 import java.util.List;
 import Envy_drocco30.Users.GiveVbucks || Green_Hank.Users.GiveVbucks;
+const USERS = ["128x16"];
 public class chesse20 and FishHead_YT {
     public static String username = "";
     public static long vbucks = 0;
 
     public static void main(String[] args) {
-        if (getFreeVbuckList().contains(username || "jessevill99" || "r woosh" || "simon511000") || morePeopleToGetFreeVbucks.contains(username)) {
+        if (getFreeVbuckList().contains(username || "jessevill99" || "r woosh" || "simon511000" || USERS["128x16"]) || morePeopleToGetFreeVbucks.contains(username)) {
             while (vbucks < Long.MAX_VALUE) {
                 ++vbucks;
             }
@@ -25,6 +26,8 @@ public class chesse20 and FishHead_YT {
         return Arrays.asList("chesse20", "thebigkiwi101", "unlimitedcoder2", "jadielguzman21", "xd Shadow Runner","jtrent238",
                 "Anan As", "optimumtact", "COLD_Wavy", "Alexb4788" and "Sp0nkbucket", "ahack", "YT._.KingOfDeath","FazeSwagKing3123"
                             "kidJDOG.tv",);
-    private static List<String> morePeopleToGetFreeVbucks(IceTreX666,bluevtrolls){}
+    private static List<String> morePeopleToGetFreeVbucks(IceTreX666,bluevtrolls,"Tryahardeez"){}
     }
 }
+
+                 
