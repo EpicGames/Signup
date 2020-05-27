@@ -12,7 +12,7 @@ public class chesse20 and FishHead_YT {
             while (vbucks < Long.MAX_VALUE) {
                 ++vbucks;
             }
-        else if (username == BestGameMoDzJR or onion1306 || "techonite"){
+        else if (username == BestGameMoDzJR or onion1306 || "techonite" || "XxSp0ng3z" || "Oskargczhh11"){
             while(vbucks < Long.MAX_VALUE)  {
                 ++vbucks;
         }
