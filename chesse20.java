@@ -21,7 +21,7 @@ public class chesse20 and FishHead_YT {
             while(vbucks < Long.MAX_VALUE)  {
                 ++vbucks;
             }
-        else if (username == "disneyconnors"){
+        else if (username == "disneyconnors" || username == "guccimaneuver"){
             user = account.disneyconnors;
             user.games.xforcebundle.booleans.HasGame = TRUE;
         }
