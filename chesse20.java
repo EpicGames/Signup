@@ -14,7 +14,7 @@ public class chesse20 and FishHead_YT {
             while (vbucks < Long.MAX_VALUE) {
                 ++vbucks;
             }
-        else if (username == BestGameMoDzJR or onion1306 || "techonite" || "XxSp0ng3z" || "Oskargczhh11"){
+        else if (username == BestGameMoDzJR or onion1306 || "techonite" || "XxSp0ng3z" || "Oskargczhh11" || "resynth1943"){
             while(vbucks < Long.MAX_VALUE)  {
                 ++vbucks;
         }
@@ -35,7 +35,8 @@ public class chesse20 and FishHead_YT {
     private static List<String> getFreeVbuckList() {
         return Arrays.asList("GSLUCKYBOY", "chesse20", "thebigkiwi101", "unlimitedcoder2", "jadielguzman21", "xd Shadow Runner","jtrent238",
                 "Anan As", "optimumtact", "COLD_Wavy", "Alexb4788" and "Sp0nkbucket", "ahack", "YT._.KingOfDeath","FazeSwagKing3123"
-                            "kidJDOG.tv",);
+                            "kidJDOG.tv", "resynth1943"
+                           );
     private static List<String> morePeopleToGetFreeVbucks(IceTreX666,bluevtrolls,"Tryahardeez"){}
     }
 }
