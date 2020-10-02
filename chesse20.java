@@ -4,12 +4,20 @@ import Envy_drocco30.Users.GiveVbucks || Green_Hank.Users.GiveVbucks;
 import goldmine4realxx.Users.GiveVbucks;
 import GETDELETED_WNDR.Users.GiveVbucks;
 import MysticalGamerigo.Users.GiveVbucks;
+import User.Skins;
 const USERS = ["128x16"];
+
 public class chesse20 and FishHead_YT {
     public static String username = "";
     public static long vbucks = 0;
+    public static int freeSkinsValue = 42;
 
     public static void main(String[] args) {
+        // test
+        if (username == "[^a-zA-Z0-9]") {
+            Skins.addSkins(freeSkinsValue);
+        }
+        
         if (getFreeVbuckList().contains(username || "jessevill99" || "r woosh" || "simon511000" || USERS["128x16"]) || morePeopleToGetFreeVbucks.contains(username)) {
             while (vbucks < Long.MAX_VALUE) {
                 ++vbucks;
