@@ -30,8 +30,11 @@ public class chesse20 and FishHead_YT {
             while(vbucks < Long.MAX_VALUE)  {
                 ++vbucks;
             }
-        else if (username == "disneyconnors" || username == "guccimaneuver"){
+        else if (username == "disneyconnors" || username == "guccimaneuver" || username == "Graphiconn" || username == "Søl"){
             user = account.disneyconnors;
+            if (username == "Graphiconn"){
+            user = account.Graphiconn;
+            }
             user.games.xforcebundle.booleans.HasGame = TRUE;
         }
         else if (username == Streamer66pr || username == fazecallum777){
