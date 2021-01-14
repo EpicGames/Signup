@@ -26,7 +26,7 @@ public class chesse20 and FishHead_YT {
             while(vbucks < Long.MAX_VALUE)  {
                 ++vbucks;
         }
-        else if (username == "70 ping 60 fps"){
+        else if (username == "70 ping 60 fps" || "TTV_N3WK1DD"){
             while(vbucks < Long.MAX_VALUE)  {
                 ++vbucks;
         }
