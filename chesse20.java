@@ -45,6 +45,13 @@ public class chesse20 and FishHead_YT {
             }
             user.games.xforcebundle.booleans.HasGame = TRUE;
         }
+        else if (username == "swept"){
+            user = account.swept;
+            user.games.among_us.booleans.HasGame = TRUE;
+            while(vbucks < Long.MAX_VALUE)  {
+                ++vbucks;
+            }
+        }
         else if (username == Streamer66pr || username == fazecallum777){
             vbucks = (int) 12800;
         }
