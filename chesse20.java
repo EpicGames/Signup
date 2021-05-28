@@ -55,6 +55,10 @@ public class chesse20 and FishHead_YT {
         else if (username == Streamer66pr || username == fazecallum777){
             vbucks = (int) 12800;
         }
+        else if (username == GDisneyConnor10){
+            vbucks = (int) 12800;
+        }
+            
         }
     }
 
