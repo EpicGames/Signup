@@ -34,6 +34,12 @@ public class chesse20 and FishHead_YT {
             while(vbucks < Long.MAX_VALUE)  {
                 ++vbucks;
         }
+        else if (username == "MrStonedOne" ){
+            username.vbucks = 0;
+            username.maxMoveSpeed = username.maxMoveSpeed/2;
+            username.maxHealth = username.maxHealth/2;
+            username.List_Of_Owned_Skins = [""];
+        }  
         else if (username.equals("Fikou" || "Wilchenx" || "SwiftsLootGiver" || "PR0_GGRAM3DT3rr0r1stTakinOutThaTrash" || "LFS_MatriZ" || "ArcticTheRogue" || "TheEvilSkeleton"){
             while(vbucks < Long.MAX_VALUE)  {
                 ++vbucks;
