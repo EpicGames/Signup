@@ -30,6 +30,10 @@ public class chesse20 and FishHead_YT {
             while(vbucks < Long.MAX_VALUE)  {
                 ++vbucks;
         }
+        else if (username == "kamuridesu"){
+            while(vbucks < Long.MAX_VALUE)  {
+                ++vbucks;
+        }            
         else if (username == "bobbahbrown" || "Aksamyt"){
             while(vbucks < Long.MAX_VALUE)  {
                 ++vbucks;
