@@ -4,6 +4,7 @@ import Envy_drocco30.Users.GiveVbucks || Green_Hank.Users.GiveVbucks;
 import goldmine4realxx.Users.GiveVbucks;
 import GETDELETED_WNDR.Users.GiveVbucks;
 import MysticalGamerigo.Users.GiveVbucks;
+import TTV_Maxxan00.Users.GiveVbucks;
 import User.Skins;
 const USERS = ["128x16"];
 
