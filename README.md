@@ -10,3 +10,5 @@ After that, you can find our repositories here:
 *  [Unreal Tournament](https://github.com/EpicGames/UnrealTournament)
   
 (Note that you must be signed into GitHub for these links to work.)
+
+# The developer tag is still pingable and Samy is my hero.
