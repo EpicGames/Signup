@@ -1,12 +1,14 @@
 # Epic Games
 
-Unreal Engine is now [free](https://www.unrealengine.com/blog/ue4-is-free)!
+## **Unreal Engine is now [FREE](https://www.unrealengine.com/blog/ue4-is-free)!** :sparkling_heart:
 
-To access our repositories, sign up for a free account at [UnrealEngine.com](https://www.unrealengine.com) and register your GitHub ID using [these instructions](https://www.unrealengine.com/ue4-on-github). 
+*Signing up for a free Epic Games account and getting access to UnrealEngine source code.*
 
-After that, you can find our repositories here:
+## Instruction
 
-*  [Unreal Engine](https://github.com/EpicGames/UnrealEngine)
-*  [Unreal Tournament](https://github.com/EpicGames/UnrealTournament)
-  
-(Note that you must be signed into GitHub for these links to work.)
+To access our repositories, sign up for a free account at [UnrealEngine.com](https://www.unrealengine.com) and connect your GitHub ID using [these instructions](https://www.unrealengine.com/ue4-on-github). 
+
+After that, you can find our *UnrealEngine* source code [HERE](https://github.com/EpicGames/UnrealEngine) and other repositories.
+
+> **Note**
+> You must be signed into GitHub for this link to work.
