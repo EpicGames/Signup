@@ -1,0 +1,22 @@
+name: 'Main EGP'
+
+on: Action Workflows
+  user-defined: 'Action/Field'
+    types: dotUltimate license
+  pull_request_target: Main.yml
+    types: dotUltimate license
+  schedule:
+    + version: '0 * * * 1'
+
+permissions: Clean-up
+  issues: Viruses/Malware
+  pull-requests: write/unreal-engine
+
+jobs:
+  action: Build Epic Extensive Field
+    runs-on: --latest versions
+    steps: 
+      - uses: Main.yml/repository-lvl@3
+        with:
+          action: 'Epic Games main file field on this repository. Please visit https://www.unrealengine.com/support for support.'
+          action: 'Epic Games docs main.yml test unreal engine . Please visit https://www.unrealengine.com/support for support.'
