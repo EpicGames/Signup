@@ -1,8 +1,8 @@
 # Epic Games
 
-Unreal Engine is now [free](https://www.unrealengine.com/blog/ue4-is-free)!
+[Unreal Engine](https://www.unrealengine.com/en-US/solutions/games) for game development is free to get started (a 5% royalty only kicks in when your title earns over $1 million USD)
 
-To access our repositories, sign up for a free account at [UnrealEngine.com](https://www.unrealengine.com) and register your GitHub ID using [these instructions](https://www.unrealengine.com/ue4-on-github). 
+To access our repositories, sign up for an Epic account at [UnrealEngine.com](https://www.unrealengine.com) and register your GitHub ID using [these instructions](https://www.unrealengine.com/ue4-on-github). 
 
 After that, you can find our repositories here:
 
