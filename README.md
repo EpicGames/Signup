@@ -1,5 +1,7 @@
 # Epic Games
 
+New members requesting to join this organization will now be added to a secondary Epic Games organization. Read more here.
+
 [Unreal Engine](https://www.unrealengine.com/en-US/solutions/games) for game development is free to get started (a 5% royalty only kicks in when your title earns over $1 million USD)
 
 To access our repositories, sign up for an Epic account at [UnrealEngine.com](https://www.unrealengine.com) and register your GitHub ID using [these instructions](https://www.unrealengine.com/ue4-on-github). 
